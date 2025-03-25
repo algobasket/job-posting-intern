@@ -1,4 +1,4 @@
-# Job Posting for Interns
+# Job Posting for Interns v1.0
 
 ## Technologies Used
 - **Backend:** Node.js  
