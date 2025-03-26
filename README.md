@@ -43,9 +43,10 @@
 - **Resume Parsing** – Employers can automatically extract key details from student resumes.  
 
 ## Development Details
-- **Frontend (React.js + Bootstrap 5):** $150  
-- **Backend & Admin System (Node.js):** $350  
-- **Total Development Timeline:** 10 days  
+- **Frontend (React.js + Bootstrap 5 Design):** $200  
+- **Backend & Admin System (Node.js + Express):** $400
+- **Robust API using Swagger :** $100
+- **Total Development Timeline:** 10 Days  
 - **Free Server Deployment**  
 - **1 Month Free Server Maintenance**
 
