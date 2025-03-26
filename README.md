@@ -2,7 +2,7 @@
 
 ## Technologies Used
 - **Backend:** Node.js  
-- **Frontend:** Bootstrap 5  
+- **Frontend:** React + Latest Bootstrap 5  
 - **Database:** MySQL or PostgreSQL  
 
 ## Project Overview
